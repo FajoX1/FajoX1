@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/> Hello, I'm FajoX</a> 
+<h1 align="center"><img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/> Hi, I'm FajoX</a> 
 <h3 align="center"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Sys-admin,+developer"></h3>
 
 ## 💻 Languages
