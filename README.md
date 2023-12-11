@@ -13,8 +13,6 @@
 
 [![FajoX's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=FajoX1&theme=react)](https://github.com/FajoX1/github-readme-activity-graph)
 
-</div>
-
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FajoX1&theme=nord_dark)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=FajoX1&theme=nord_dark) ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FajoX1&theme=nord_dark)
@@ -22,3 +20,5 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=FajoX1&theme=nord_dark) ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=FajoX1&theme=nord_dark)
 
 <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%">
+
+</div>
