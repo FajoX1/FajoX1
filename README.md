@@ -1,6 +1,6 @@
 <div align="center">
 
-<h3><img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/> Hello!</h3>
+# <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/> Hello!
 <h3><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Sys-admin,+Senior+developer"></h3>
 
 ## 💻 Languages
