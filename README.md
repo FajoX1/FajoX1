@@ -11,7 +11,7 @@
 
 ## 📊 My activity 📊
 
-[![FajoX's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=FajoX1&theme=react)](https://github.com/FajoX1/github-readme-activity-graph)
+[![FajoX's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=FajoX1&theme=react)](https://github.com/FajoX1)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FajoX1&theme=nord_dark)
 
