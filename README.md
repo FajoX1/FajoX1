@@ -1,9 +1,5 @@
-<div align="center">
-
-# <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/> ¡Hola!
-
+<div align="center"><h1><img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/> ¡Hola!</h1>
 </div>
-
 <!--START_SECTION:waka-->
 📊 **This Week I Spent My Time On** 
 
