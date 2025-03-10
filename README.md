@@ -1,6 +1,16 @@
 <div align="center"><h1><img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/> ¡Hola!</h1>
 </div>
 
+### 💻 Projects
+
+- **[FAgram Desktop](https://fagram.app)**
+- **[HikkaHost](https://hikka.host)**
+- **[FAmods](https://t.me/famods)**
+- **[Hetsu](https://github.com/fajox/hetsu)**
+- **[FAmarket (closed)](https://t.me/FAmarket_RoBot)**
+
+### 🕓 Wakatime
+
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-699%20hrs%2050%20mins-blue)
 
