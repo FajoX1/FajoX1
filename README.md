@@ -18,6 +18,10 @@
 - **[Hetsu](https://github.com/fajox1/hetsu)**
 - **[FAmarket (closed)](https://t.me/FAmarket_RoBot)**
 
+### ❤️ Donate
+
+> <i>You can find my details <a href="https://t.me/fajox_donate">there.</a></i>
+
 ### 🕓 Wakatime
 
 <!--START_SECTION:waka-->
