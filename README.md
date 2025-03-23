@@ -16,7 +16,6 @@
 - **[HikkaHost](https://hikka.host)**
 - **[FAmods](https://t.me/famods)**
 - **[Hetsu](https://github.com/fajox1/hetsu)**
-- **[FAmarket (closed)](https://t.me/FAmarket_RoBot)**
 
 ### ❤️ Donate
 
