@@ -21,7 +21,7 @@
 
 ### ❤️ Donate
 
-> <i>You can find my details <a href="https://t.me/fajox_donate">there.</a></i>
+> <i>You can find my details <a href="https://t.me/fajox_donate">here.</a></i>
 
 ### 🕓 Wakatime
 
