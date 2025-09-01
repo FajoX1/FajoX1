@@ -14,7 +14,6 @@
 
 - **[FAgram Desktop](https://fagram.app)**
 - **[HikkaHost](https://hikka.host)**
-- **[ToThost (since June)](https://github.com/tothosting)**
 - **[NekoSpy 2.0](https://github.com/fajox1/nekospy)**
 - **[FAmods](https://t.me/famods)**
 - **[Hetsu](https://github.com/fajox1/hetsu)**
